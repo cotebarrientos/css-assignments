@@ -38,7 +38,7 @@ You can visit this website by clicking [here](https://cotebarrientos.github.io/c
 
 ### Clone Project from GitHub Website 📁
 
-1. Follow this link to the [Project GitHub repository](https://github.com/cotebarrientos/html-assignments).
+1. Follow this link to the [Project GitHub repository](https://github.com/cotebarrientos/main-css-assignment).
 2. Scroll to the top of this repository and click on the "clone or download button".
 3. Decide whether you want to clone the project using HTTPS or an SSH key and do the following:
    - HTTPS: click on the checklist icon to the right of the URL.
