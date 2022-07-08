@@ -5,7 +5,7 @@
 This repository contains 3 assignments about CSS for the **Frontend Development industry training program** taught
 by [**Brainnest**](https://www.brainnest.consulting/).
 
-You can visit this website by clicking [here]().
+You can visit this website by clicking [here](https://cotebarrientos.github.io/css-assignments/).
 
 ---
 
